@@ -3,4 +3,4 @@
 -   My project video: https://youtu.be/reszVR4huLs
     -   _video is scheduled to post on 7/4/2024_
 -   LED setup: https://www.youtube.com/watch?v=e1FVSpkw6q4
--   Setting up the LCD display: https://www.youtube.com/watch?v=_6_F6B0rd6M
+-   LCD setup: https://www.youtube.com/watch?v=_6_F6B0rd6M
